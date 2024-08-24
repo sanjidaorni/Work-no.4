@@ -1,0 +1,68 @@
+html{
+	background: lightgoldenrodyellow;
+	backface-visibility: revert-layer;
+	padding: 100px;
+}
+
+
+h1{
+	background: white;
+	margin: 10px;
+	padding: 10px;
+	font-size: 50px;
+	color: navy;
+	text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+.para{
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.head{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: monospace;
+
+}
+
+#info{
+	text-align: center;
+	font-size: 40;
+	font-weight:bold ;
+	color: midnightblue;
+	font-family: cursive;
+	background-color: #a5dcfd;
+
+
+}
+
+#contact{
+	font-size: 30px;
+	font-family: cursive;
+	font-weight: bold;
+	text-align: center;
+}
+
+#contact2{
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: bold;
+	text-align: center;
+}
+
+#about{
+	font-size: 30px;
+	font-family: cursive;
+	font-weight: bold;
+	text-align: center;
+}
+
+#form{
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: bold;
+	text-align: center;
+}
